@@ -23,8 +23,10 @@ It will be shown when an enemy target is in execute range for Hammer of Wrath **
 
 ## Installation
 
-Download the zip file and extract the folder "HammertimeWA" with the media files into <br>
- X:Path\to\World of Warcraft\\_classic_era_\Interface\AddOns\.
+Download the zip file from Releases and extract the folder "HammertimeWA" with the media files into <br>
+``` 
+X:Path\to\World of Warcraft\_classic_era_\Interface\AddOns\
+```
 <br>
 **Restart WoW or do /reload or /script ReloadUI(); for the client to load the new media files.**
 <br>

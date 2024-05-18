@@ -23,7 +23,7 @@ It will be shown when an enemy target is in execute range for Hammer of Wrath **
 
 ## Installation
 
-Download the zip file and extract the folder "HammertimeWA" with the media files into X:Path\to**\World of Warcraft\_classic_era_\Interface\AddOns\**.
+Download the zip file and extract the folder "HammertimeWA" with the media files into X:Path\to **\World of Warcraft\_classic_era_\Interface\AddOns\** .
 **Restart WoW or do /reload or /script ReloadUI(); for the client to load the new media files.**
 Open WeakAuras config window and click on "Import".
 Copy and paste the import string that you can find either on [Wago.io]( INSERT WAGO LINK ) or in the importstring.txt contained in the zip file to import the WeakAura.
